@@ -345,7 +345,7 @@ function chillHop() {
             audio: "https://astreaming.edi.ro:8443/EuropaFM_aac",
             active: false,
         },
-       
+       }, 
 }
 
 export default chillHop;
