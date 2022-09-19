@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"ovem Pan FM São Paulo ao vivo",
-            artist: "ovem Pan FM São Paulo ao vivo",
+            artist: "ovem Pan FM",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41309.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
@@ -14,7 +14,7 @@ function chillHop() {
         },
         {
             name:"Radio Joven pan",
-            artist: "Radio Joven pan",
+            artist: "Radio Joven",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41309.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
